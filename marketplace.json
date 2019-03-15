@@ -1,0 +1,25 @@
+{
+  "marketplaceName": {
+    "de": "Elastic Sync Basis Schulung",
+    "en": "Elastic Sync Basic Training"
+  },
+  "price": 95.20,
+  "shortDescription": {
+    "de": "Lerne einfache Im- und Exporte durchzuführen.",
+    "en": "Learn how to perform simple imports and exports."
+  },
+  "categories": [
+    "3889"
+  ],
+  "keywords": [
+    "ElasticSync",
+    "Sync",
+    "Elastic Sync",
+    "Elastic",
+    "Import",
+    "Export",
+    "Formatdesigner",
+    "Elastischer Export",
+    "Elastic Export"
+  ]
+}
