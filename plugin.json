@@ -5,7 +5,7 @@
     "version"           : "1.0.0",
     "webhookUrl"        : "https://t5701wqf75ra.plentymarkets-cloud01.com/rest/service/tickets",
     "pluginIcon"        : "icon_ElasticSyncBasic_xs.png",
-    "description"       : "Eine 60-minütige Schulung, um die Funktionsweise des Datenimports und Datenexports kennenzulernen. Es wird der Umgang mit Elastic Sync, Formatdesigner und Elastic Export erklärt. Dabei wird jederzeit auf individuelle Fragestellungen und Probleme eingegangen.",
+    "description"       : "",
     "author"            : "Diana Hannes datamazing",
     "authorIcon"        : "datamazing-xs.png"
 }
